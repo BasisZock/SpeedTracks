@@ -51,7 +51,7 @@ speed-blocks:
   SLIME_BLOCK: 0.25
 
   # Example for a full stop
-  REDSTONE_BLOCK: 0.0
+  OBSIDIAN: 0.0
 ```
 
 ## Commands & Permissions
