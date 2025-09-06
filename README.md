@@ -2,7 +2,7 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Paper Version](https://img.shields.io/badge/Paper-1.21-blue.svg)](https://papermc.io/)
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/basiszock/SpeedTracks) <!-- Change the link to your repo -->
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/basiszock/SpeedTracks)
 
 **A powerful and intuitive PaperMC plugin to control minecart speeds using configurable track blocks.**
 
@@ -18,8 +18,8 @@ SpeedTracks allows you to design railway systems with dynamic speeds. By simply 
 
 ## Installation
 
-1.  Download the latest release from the [Releases page](https://github.com/basiszock/SpeedTracks/releases).
-2.  Place the `SpeedTracks-X.X.X.jar` file into your **Paper 1.21+** server's `plugins/` directory.
+1.  Download the latest release from the [Releases page](https://modrinth.com/plugin/speedtracks/versions).
+2.  Place the `SpeedTracks-X.X.jar` file into your **Paper 1.21+** server's `plugins/` directory.
 3.  Start your server. The default configuration file will be generated at `plugins/SpeedTracks/config.yml`.
 
 ## Configuration (`config.yml`)
@@ -78,6 +78,15 @@ cd SpeedTracks
 ```
 
 The compiled plugin will be located in the `build/libs/` directory.
+
+## Support & Feedback
+
+Encountered a bug or have a great idea for a new feature? Your feedback is highly valued!
+
+-   **🐛 Reporting Bugs:** If you find an issue, please [**open a bug report**](https://github.com/basiszock/SpeedTracks/issues) on our GitHub issue tracker. Please include your server version, plugin version, steps to reproduce, and any relevant console errors.
+-   **💡 Suggesting Features:** To suggest a new feature, please [**create a feature request**](https://github.com/basiszock/SpeedTracks/issues) and describe the functionality you would like to see.
+
+Please use the GitHub issue tracker for all support requests rather than the review sections on plugin download sites.
 
 ## License
 
